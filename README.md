@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on finishing off Lambda
-- 🌱 I’m currently learning deep learning principles
+- 🌱 I’m currently learning more deep learning principles
 - 👯 I’m looking to collaborate on any machine learning project
 - 🤔 I’m looking for help with finding more material to learn deep learning
 - 💬 Ask me about anything, really
