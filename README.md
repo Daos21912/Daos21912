@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ask me about paragliding or powered paragliding, I'll talk all day.
 
+----------
+
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daos21912&count_private=true&theme=dark)
+
