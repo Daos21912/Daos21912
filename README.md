@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **DanFerber912@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DWkiCFT_r3KedU8iDRIx3JEcnbvwjBEA0fTmMZobcoo/edit?usp=sharing](https://docs.google.com/document/d/1DWkiCFT_r3KedU8iDRIx3JEcnbvwjBEA0fTmMZobcoo/edit?usp=sharing)
+- 📄 Know about my [experiences](https://docs.google.com/document/d/1DWkiCFT_r3KedU8iDRIx3JEcnbvwjBEA0fTmMZobcoo/edit?usp=sharing)
 
 - ⚡ Fun fact **I love to fly my powered paraglider!**
 
