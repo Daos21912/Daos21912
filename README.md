@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **anything I can**
 
-- 💬 Ask me about **CS or machine learning**
+- 💬 Ask me about **computer science or machine learning**
 
 - 📫 How to reach me **DanFerber912@gmail.com**
 
