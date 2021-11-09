@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan Ferber!</h1>
-<h3 align="center">I'm a driven Data Scientist from Philadelphia who is passionate about technology and aviation</h3>
+<h3 align="center">I'm a Data Scientist from Philadelphia who is passionate about technology and aviation</h3>
 
 - 🔭 I’m currently working on **Human Rights First Document Database**
 
