@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dan Ferber!</h1>
 <h3 align="center">I'm a Data Scientist from Philadelphia who is passionate about technology and aviation</h3>
 
-- 🔭 I’m currently working on **Human Rights First Document Database**
+- 🔭 I’m currently working on **My Masters degree**
 
-- 🌱 I’m currently learning **anything I can**
+- 🌱 I’m currently learning about **artificial intelligence**
 
 - 💬 Ask me about **computer science or machine learning**
 
